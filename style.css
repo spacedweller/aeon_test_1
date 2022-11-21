@@ -52,7 +52,7 @@
 
 
 .promo_title_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 64px;
@@ -60,7 +60,7 @@
 }
 
 .promo_description_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 22px;
@@ -92,7 +92,7 @@
 
 .promo_btn_text {
     color: white;
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -126,7 +126,7 @@
 }
 
 .language_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -165,7 +165,7 @@
 
 
 .pros_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -230,7 +230,7 @@
 
 
 .products_items_block_title {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -240,7 +240,7 @@
     color: #000000;
 }
 .products_items_block_description {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -254,7 +254,7 @@
 
 
 .products_title_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 38px;
@@ -297,7 +297,7 @@
 }
 
 .benefits_block_title {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 38px;
@@ -308,7 +308,7 @@
 }
 
 .benefits_block_description {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -338,7 +338,7 @@
 }
 
 .benefits_block_container_text {
-    font-family: 'Euclid Circular A';
+    font-family: 'Euclid Circular A', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
